@@ -6,6 +6,22 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/govind-khandelwal/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:khandelwalgov@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://leetcode.com/khandelwalgov/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode">
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm a final-year CSE student at VIT Vellore, passionate about building meaningful products that merge AI, software engineering, and real-world usability.  
@@ -23,7 +39,6 @@ I enjoy creating intelligent systems — from building GenAI tools and ML pipeli
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
 
 **Frameworks & Tools**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
@@ -44,7 +59,9 @@ I enjoy creating intelligent systems — from building GenAI tools and ML pipeli
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
----
+
+
+
 
 ### 📌 Featured Work
 
@@ -59,7 +76,7 @@ I enjoy creating intelligent systems — from building GenAI tools and ML pipeli
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khandelwalgov&show_icons=true&theme=tokyonight" width="45%" />
@@ -76,17 +93,20 @@ I enjoy creating intelligent systems — from building GenAI tools and ML pipeli
 
 ---
 
-### 📫 Reach Me
+### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/govind-khandelwal/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khandelwalgov@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=asw5vih8f4rw5cgnq3zra45mm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=asw5vih8f4rw5cgnq3zra45mm&cover_image=true&theme=novatorem&show_offline=false&background_color=0c0909&interchange=false&bar_color=1ee218&bar_color_cover=false" />
   </a>
 </p>
 
 ---
+
+### 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117&textColor=%23fff" />
+</p>
 
 > ⚡ *Always building, always learning. Let’s connect and collaborate on something impactful!*
