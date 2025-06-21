@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Govind 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Final+Year+CS+@+VIT+Vellore;AI+%7C+LLMs+%7C+Full-Stack+Engineering;Panasonic+%7C+Samsung+R%26D+%7C+CarDekho;Open+Source+%7C+Real-World+Tech+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Final+Year+CSE+student+@+VIT+Vellore;AI+%7C+LLMs+%7C+Full-Stack+Engineering;Panasonic+%7C+Samsung+R%26D+%7C+CarDekho;Open+Source+%7C+Real-World+Tech+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a final-year CS student at VIT Vellore, passionate about building meaningful products that merge AI, software engineering, and real-world usability.  
+I'm a final-year CSE student at VIT Vellore, passionate about building meaningful products that merge AI, software engineering, and real-world usability.  
 I enjoy creating intelligent systems — from building GenAI tools and ML pipelines to deploying full-stack apps that actually ship.
 
 ---
