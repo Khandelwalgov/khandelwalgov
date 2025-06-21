@@ -93,6 +93,10 @@ I enjoy creating intelligent systems — from building GenAI tools and ML pipeli
 
 ---
 
+### 🧠 LeetCode Highlights
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/khandelwalgov?theme=dark&font=Source+Code+Pro&ext=contest" /> </p>
+
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
